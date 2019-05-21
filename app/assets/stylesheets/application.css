@@ -1,0 +1,102 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+ *= require_self
+ *= require font-awesome
+ *= require animate/animate.css
+ *= require style
+  //= require dropzone/basic.css
+  //= require dropzone/dropzone.css
+ */
+
+.nav-header {
+    background-color: #faa831;
+    background-image: url(patterns/header-profile-skin-3.png) !important;
+}
+
+.nav > li.active {
+    border-left: 4px solid #f58634 !important;
+}
+
+.md-skin .navbar-fixed-top, .md-skin .navbar-static-top {
+  background-color: #faa831;
+}
+
+#btn_sanduiche {
+  background-color: #faa831;
+  border-color: #faa831;
+}
+
+.md-skin .nav .open > a, .md-skin .nav .open > a:hover, .md-skin .nav .open > a:focus {
+    background: #f58634 !important;
+}
+
+.dropzone {
+    border: 1px dashed #faa831 !important;
+}
+
+.pace .pace-progress {
+    background: #f58634 !important;
+}
+
+.footer {
+  border-left: 1px solid #e7eaec;
+   border-right: 1px solid #e7eaec;
+}
+
+#page-wrapper {
+      border-left: 1px solid rgb(231, 234, 236);
+      transition: width 0.5s;
+}
+
+body.mini-navbar .nav-header {
+    padding: 0;
+    background-color: #e7eaec;
+}
+
+.element::-webkit-scrollbar { width: 0 !important }
+
+.skin-settings {
+    border: 2px solid rgb(231, 234, 236);
+}
+.spin-icon {
+    background: #faa831 !important;
+}
+
+.theme-config-box {
+    /*margin-right: -300px !important;*/
+}
+
+.skin-settings {
+    /*width: 300px !important;*/
+}
+
+#bodycontent {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.showFeedDemands{
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.sideBarPaddingFeed {
+    padding-left: 1%;
+    padding-top: 2%;
+}
+
+.feedTitles {
+  padding-left: 5%;
+}
+
+.hideDemands{
+  display: none;
+}

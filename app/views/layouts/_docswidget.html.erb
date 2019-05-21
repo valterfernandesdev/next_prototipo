@@ -1,0 +1,38 @@
+<div class="theme-config">
+    <div class="theme-config-box">
+        <div class="spin-icon">
+            <i class="fa fa-upload"></i>
+        </div>
+        <div class="skin-settings">
+            <div class="title">Insira aqui seus documentos! <br>
+                <small style="text-transform: none;font-weight: 400">
+                    Clique e arraste para anexar.
+                </small>
+            </div>
+            <div class="setings-item">
+                    <form action="#" class="dropzone" id="dropzoneForm">
+                        <div class="fallback">
+                            <input name="file" type="file" multiple />
+                        </div>
+                    </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<% content_for :javascript do %>
+
+  <script type="text/javascript">
+
+      $(function() {
+
+        Dropzone.options.dropzoneForm = {
+            paramName: "file", // The name that will be used to transfer the file
+            maxFilesize: 2, // MB
+            dictDefaultMessage: "<strong>Drop files here or click to upload. </strong></br>"
+        };
+    });
+
+  </script>
+
+<% end %>
