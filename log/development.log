@@ -14210,3 +14210,3327 @@ Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-0
 
 
 Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-21 17:49:15 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-23 13:08:06 -0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+  Rendered layouts/_navigation.html.erb (2.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.8ms)
+  Rendered layouts/_breadcrumb.html.erb (0.5ms)
+  Rendered layouts/_docswidget.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+  Rendered layouts/_demandasfeed.html.erb (0.5ms)
+Completed 200 OK in 2181ms (Views: 2158.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-e3d79c7903979eeb1549200545442d97ef445585105168ed64510e422af1b667.css?body=1" for 127.0.0.1 at 2019-05-23 13:08:09 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 13:08:10 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 13:08:41 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 70ms (Views: 69.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 13:08:41 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:16:06 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 105ms (Views: 104.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:16:06 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:16:07 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:17:04 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 72ms (Views: 71.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:17:04 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:17:04 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:19:19 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 82ms (Views: 80.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:19:20 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:19:20 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:20:21 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.9ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 71ms (Views: 69.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:20:22 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:20:22 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:20:45 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 85ms (Views: 84.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:20:45 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:20:45 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:22:13 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 75ms (Views: 74.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:22:13 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:22:13 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:22:31 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 74ms (Views: 73.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:22:31 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:22:31 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:22:49 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 71ms (Views: 70.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:22:49 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:22:49 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:23:05 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 75ms (Views: 74.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:23:06 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:23:06 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:23:11 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.7ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 94ms (Views: 93.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:23:11 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:23:11 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:23:27 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+Completed 200 OK in 133ms (Views: 131.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:23:27 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:23:28 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:25:31 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.9ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 89ms (Views: 88.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:25:32 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:25:32 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:26:22 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 75ms (Views: 74.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:26:22 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:26:23 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:28:58 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.4ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+Completed 200 OK in 148ms (Views: 147.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e28de1dda066fbe8ecf0fbcc2196fe157402ab4a5a873774f5b29eff0643683f.css?body=1" for 127.0.0.1 at 2019-05-23 14:28:58 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:28:58 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:28:58 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:29:12 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 70ms (Views: 69.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:29:12 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:29:12 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:31:18 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 81ms (Views: 79.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:31:18 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:31:18 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:31:20 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.1ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 72ms (Views: 71.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:31:20 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:31:20 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:31:27 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 74ms (Views: 72.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:31:28 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:31:28 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:34:54 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 125ms (Views: 124.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-483f74571ecd7b143148a96398ad7550d90786080339394f94f8bbd1f2b3f32d.css?body=1" for 127.0.0.1 at 2019-05-23 14:34:54 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:34:54 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:34:54 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:36:32 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.9ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 122ms (Views: 120.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-66dc52e5ecb58aefd7e7e7194c09028ff31777888437fe0893c2ef24d02e1fde.css?body=1" for 127.0.0.1 at 2019-05-23 14:36:32 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:36:33 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:36:33 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:38:55 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.7ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 148ms (Views: 147.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c256019575c2a5db4d8d44f125a2f03aa46fb45d2b0324c445d43f1a5c46acc0.css?body=1" for 127.0.0.1 at 2019-05-23 14:38:56 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:38:56 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:38:56 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:39:23 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.8ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 113ms (Views: 112.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8908670c4f328df464b9cdb915f02db9f304d4531992c9201b28a81104a5d573.css?body=1" for 127.0.0.1 at 2019-05-23 14:39:23 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:39:23 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:39:23 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:39:37 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.0ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+Completed 200 OK in 114ms (Views: 113.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-5cf29dfb3867799ff2306012ff74f0c58a5ce1e6e51cf8cdc4ffb42e44b15613.css?body=1" for 127.0.0.1 at 2019-05-23 14:39:37 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:39:37 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:39:37 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:39:48 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 64ms (Views: 63.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:39:48 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:39:48 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:40:10 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 72ms (Views: 71.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:40:10 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:40:10 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:40:29 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 68ms (Views: 67.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:40:29 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:40:29 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:40:38 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 72ms (Views: 71.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:40:38 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:40:38 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:44:22 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 75ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:44:22 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:44:23 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:44:44 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 82ms (Views: 80.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:44:44 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:44:45 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:46:21 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 72ms (Views: 71.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:46:21 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:46:21 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:46:57 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 76ms (Views: 74.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:46:58 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:48:20 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.8ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 85ms (Views: 83.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:48:20 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:48:45 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 72ms (Views: 71.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:48:45 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:51:53 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 124ms (Views: 123.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-a6c9299a97cb35e542c8018431b45b4a739c3312c8a216e1885cc855da652d08.css?body=1" for 127.0.0.1 at 2019-05-23 14:51:53 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:51:53 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:51:53 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:52:10 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.1ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 122ms (Views: 121.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-787b6a810f54aa58abaa96692d4a0b38775cbecb035753b55b41d81cdcf2d016.css?body=1" for 127.0.0.1 at 2019-05-23 14:52:10 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:52:10 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:52:10 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:52:24 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 129ms (Views: 128.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-1e87edb271df2a2b4fbe8964f14bf8ba37c6202cd4b13174f9bfbbe848f44c8d.css?body=1" for 127.0.0.1 at 2019-05-23 14:52:24 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:52:24 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:52:24 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:52:48 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.8ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 118ms (Views: 117.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-d0d1e1dc19595ab6a14eda72e1e7e3430fe698cd8fee072889c5259a5187642b.css?body=1" for 127.0.0.1 at 2019-05-23 14:52:48 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:52:48 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:52:48 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:53:29 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (3.1ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 90ms (Views: 89.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:53:29 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:53:29 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:53:38 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_navigation.html.erb (1.8ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 149ms (Views: 148.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:53:38 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:53:38 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 14:58:52 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 89ms (Views: 88.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 14:58:52 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 14:58:52 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:08:11 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_navigation.html.erb (1.8ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 77ms (Views: 76.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:08:11 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:08:12 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:08:19 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_navigation.html.erb (1.9ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.2ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 96ms (Views: 95.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:08:19 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:08:19 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:08:34 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_navigation.html.erb (1.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 79ms (Views: 78.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:08:34 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:08:34 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:23:50 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 126ms (Views: 125.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-391295cb54c3475932dc8a3a1217de086aed283446cb2bad9e4080db8c8cff6b.css?body=1" for 127.0.0.1 at 2019-05-23 15:23:50 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:23:50 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:23:50 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:24:37 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 134ms (Views: 133.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-2bb9ef67616a1f4abf776893d6b49598b3f174fa57ec65d3f9c8670ae3bf0d34.css?body=1" for 127.0.0.1 at 2019-05-23 15:24:37 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:24:37 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:24:37 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:24:44 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (7.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 82ms (Views: 81.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:24:44 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:24:44 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:24:55 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 88ms (Views: 87.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:24:55 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:24:55 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:29:08 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.1ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 75ms (Views: 74.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:29:08 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:29:08 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:30:42 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.7ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 113ms (Views: 112.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:30:42 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:30:42 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:32:24 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 89ms (Views: 88.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:32:24 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:32:24 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:32:38 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 70ms (Views: 69.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:32:38 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:32:38 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:33:00 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 96ms (Views: 95.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:33:00 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:33:00 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:33:11 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 76ms (Views: 75.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:33:12 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:33:12 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:35:53 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 111ms (Views: 109.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e60da53add39ffd03501495bfff5ddf8bd43fb530e789c132035e32f0659b1a1.css?body=1" for 127.0.0.1 at 2019-05-23 15:35:53 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:35:53 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:35:53 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:36:12 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 119ms (Views: 118.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-58b1a3d6b87f683a717142577f1f55bad0e946712bd6a126e694ac63a41990e9.css?body=1" for 127.0.0.1 at 2019-05-23 15:36:12 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:36:12 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:36:12 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:36:39 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 125ms (Views: 124.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-d6ca0f661857d52fd7c357a83564e8d3ea8bf324b89f347000717aa2aa479c52.css?body=1" for 127.0.0.1 at 2019-05-23 15:36:39 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:36:40 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:36:40 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:38:11 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.9ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 129ms (Views: 128.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-3c04c62d05c59ff3f5e247d7b57f4c4c2acb98b4fe725962330e14b6beca6a79.css?body=1" for 127.0.0.1 at 2019-05-23 15:38:11 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:38:11 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:38:12 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:38:23 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 68ms (Views: 66.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:38:23 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:38:23 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:38:56 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 116ms (Views: 115.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-abdba5410373401efee71cd3132527e90127083588accfb52dffd3828b92c0b2.js?body=1" for 127.0.0.1 at 2019-05-23 15:38:56 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:38:56 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:38:56 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-23 15:39:04 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 67ms (Views: 66.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:39:04 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:39:04 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:39:26 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.7ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 71ms (Views: 70.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:39:26 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:41:56 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 69ms (Views: 68.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:41:56 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:41:56 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:43:48 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (7.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+Completed 200 OK in 97ms (Views: 96.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:43:48 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:43:49 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:46:00 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.4ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 65ms (Views: 64.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:46:01 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:46:01 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:46:19 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.9ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 73ms (Views: 72.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:46:19 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:46:19 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:47:16 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 122ms (Views: 121.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-da8fc6f7045bf478eaf63674f3390adfbcbe8c753210d0f21e6698ecbd880c2e.css?body=1" for 127.0.0.1 at 2019-05-23 15:47:16 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:47:16 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:47:17 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:48:33 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+Completed 200 OK in 122ms (Views: 121.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-9f8ad0d55ac84e531df0e89c4705a63c202bd82f5e5093f242f94007525d8c75.css?body=1" for 127.0.0.1 at 2019-05-23 15:48:33 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:48:33 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:48:33 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:50:08 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.0ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 123ms (Views: 122.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-2232007559b9b2889e5bac9c3ae4302779f96717f7dd7c4c6190e8b363f8c851.css?body=1" for 127.0.0.1 at 2019-05-23 15:50:08 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:50:08 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:50:09 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:50:45 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (3.8ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 133ms (Views: 131.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b794fef6ef8107aee2f201406f5f7f96cce4761b30a75593560761202d5db5f2.css?body=1" for 127.0.0.1 at 2019-05-23 15:50:45 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:50:45 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:50:45 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:52:29 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (3.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.7ms)
+Completed 200 OK in 98ms (Views: 97.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:52:29 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:52:29 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:54:53 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.8ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.4ms)
+Completed 200 OK in 164ms (Views: 163.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-afc9f31c3c3dba04543aba48f57bb5f9cead942836cc9e8f21faab95ba3fbbad.css?body=1" for 127.0.0.1 at 2019-05-23 15:54:53 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:54:54 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:54:54 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:57:04 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.9ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 125ms (Views: 123.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-850392f6787a57ddfd7c2320beb2c7a581af9c02c830fdef8ba00f5a34747819.js?body=1" for 127.0.0.1 at 2019-05-23 15:57:05 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:57:05 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:57:05 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:57:18 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 83ms (Views: 83.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:57:18 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:57:18 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:58:12 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 124ms (Views: 123.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b1254866c1bb623f3ef45f66eb47cf2d26cc8d15a87d966509d2916076f4232c.css?body=1" for 127.0.0.1 at 2019-05-23 15:58:12 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:58:12 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:58:12 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:59:25 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 125ms (Views: 124.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-f89563773110e37885d3d924edcaefac6ebed8f385af2b1a239ad35d6369c3f3.js?body=1" for 127.0.0.1 at 2019-05-23 15:59:26 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:59:26 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:59:26 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 15:59:38 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 69.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 15:59:38 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 15:59:38 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:00:05 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 122ms (Views: 121.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-9237325a3eac5d2b8fe26cf4ecf76214faa89f197413d492185bafde90b5bb47.css?body=1" for 127.0.0.1 at 2019-05-23 16:00:05 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:00:05 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:00:05 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:00:53 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 102ms (Views: 101.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-6e6af122e2549978acf3816ca9baf1cc1ab5138e396e7e04f974858496d50375.js?body=1" for 127.0.0.1 at 2019-05-23 16:00:53 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:00:53 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:00:53 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:00:58 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 75ms (Views: 74.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:00:58 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:00:58 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:02:08 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 66ms (Views: 65.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:02:08 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:02:08 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:03:32 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.7ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.2ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+Completed 200 OK in 107ms (Views: 106.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:03:32 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:03:32 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:05:17 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 112ms (Views: 111.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-0683259b6d490795e99b43a7c7b899d5465e74286289c65d2209b8f874aad97b.js?body=1" for 127.0.0.1 at 2019-05-23 16:05:17 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:05:17 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:05:18 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:05:42 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 126ms (Views: 125.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-e3718b6dfcc4d33f10d0ef59e6240b36aff28e23d5768e0baee72ec5d1c6abac.js?body=1" for 127.0.0.1 at 2019-05-23 16:05:42 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:05:42 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:05:43 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:06:07 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+Completed 200 OK in 108ms (Views: 107.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-3501b4b0a2078943327668016b66d85b6ae7a0959eda94d9e5936c846465df98.js?body=1" for 127.0.0.1 at 2019-05-23 16:06:07 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:06:07 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:06:07 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:06:18 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 120ms (Views: 119.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-f9d67595edda90d10f49d1f87e2b785a734580348a0ba2bc3b2f532f7bfa5af7.js?body=1" for 127.0.0.1 at 2019-05-23 16:06:18 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:06:18 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:06:18 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:06:27 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 100ms (Views: 99.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-555dc46a110cbd5109eb8244558520e8504a5c07edb3be5e3df482d5b4fc73db.js?body=1" for 127.0.0.1 at 2019-05-23 16:06:27 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:06:27 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:06:27 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:06:57 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 110ms (Views: 109.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-b5824b346afcb412bd03c7d294ca91981957eb8e422abffc68c1b04c16c6d57b.js?body=1" for 127.0.0.1 at 2019-05-23 16:06:58 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:06:58 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:06:58 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:08:11 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.9ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 108ms (Views: 107.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-7fa7bf39f174758088d48ac12c4a285fc7a69134eda04b3438e739eacc8393c8.js?body=1" for 127.0.0.1 at 2019-05-23 16:08:12 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:08:12 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:08:12 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:08:24 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (3.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+Completed 200 OK in 121ms (Views: 120.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-f3d78e62f462c2b25ca4f5e205bb9d78a6e49b9825b5026d0ea425a5dd1e34d9.js?body=1" for 127.0.0.1 at 2019-05-23 16:08:25 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:08:25 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:08:25 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:08:53 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (3.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+Completed 200 OK in 79ms (Views: 78.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:08:54 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:08:54 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:12:01 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 113ms (Views: 112.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-7105809e2dea457289c92581b920edfd7f8564d49a5c2f023a09c2b707609e97.js?body=1" for 127.0.0.1 at 2019-05-23 16:12:01 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:12:01 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:12:01 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:14:18 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (8.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 80ms (Views: 79.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:14:18 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:14:18 -0300
+
+
+Started POST "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:18:18 -0300
+
+ActionController::RoutingError (No route matches [POST] "/home/minor.html"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.text.erb (9.7ms)
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 16:18:23 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (3.1ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 97ms (Views: 96.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 16:18:24 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 16:18:24 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:01:36 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.2ms)
+  Rendered layouts/_demandasfeed.html.erb (0.1ms)
+Completed 200 OK in 148ms (Views: 147.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-a562bc3a02a65c9f0c0481fd10f771075fb7693313424e4c0dc902dd179c61f4.js?body=1" for 127.0.0.1 at 2019-05-23 17:01:36 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:01:37 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:01:37 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:06:37 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (3.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 114ms (Views: 113.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b2344989b05b9acd82f3bdc51cf8c00332112df4f25888fe3c4ad0aa8fa93968.css?body=1" for 127.0.0.1 at 2019-05-23 17:06:37 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:06:38 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:06:38 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:08:20 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 126ms (Views: 125.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-63f3af936b456b4282045d562b680c75c1ea284b24caf5a0b067bd16315cae3a.css?body=1" for 127.0.0.1 at 2019-05-23 17:08:20 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:08:20 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:08:21 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:08:41 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 116ms (Views: 115.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b3b39f295fcedc803197b643f68da70eb20c3396b3d23f5d1a871bc6c49d0cd5.css?body=1" for 127.0.0.1 at 2019-05-23 17:08:41 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:08:41 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:08:41 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:09:26 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 125ms (Views: 124.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-2f5e228f6f25758b91d1f5a474a70e97c63779d36a2e8874154e244507585caa.css?body=1" for 127.0.0.1 at 2019-05-23 17:09:26 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:09:26 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:09:26 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:11:24 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (3.0ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 119ms (Views: 118.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-a1145b5e6054f62c57e4f425c09e7397e37cfce24efd95d4249a7663f92d4848.css?body=1" for 127.0.0.1 at 2019-05-23 17:11:24 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:11:24 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:11:25 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:12:10 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 119ms (Views: 118.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-bade0e57927d0a5b68305804f8def9c76189175c7f649d1d9e7649d86cd752d9.css?body=1" for 127.0.0.1 at 2019-05-23 17:12:10 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:12:10 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:12:10 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:19:14 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (3.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (19.4ms)
+Completed 500 Internal Server Error in 149ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (No route matches {:action=>"profile", :controller=>"appviews", :format=>"html"}):
+    10:                                           <div class="feed-activity-list">
+    11: 
+    12:                     <div class="feed-element">
+    13:                         <a href="<%= url_for :controller => 'appviews', :action => 'profile' %>" class="pull-left">
+    14: 
+    15:                         <img alt="image" class="img-circle" src="<%= image_url 'profile.jpg' %>">
+    16:                         </a>
+  app/views/layouts/_demandasfeed.html.erb:13:in `_app_views_layouts__demandasfeed_html_erb___3636922522988213990_42230320'
+  app/views/layouts/application.html.erb:43:in `_app_views_layouts_application_html_erb__945215023805289191_70196768760460'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (25.0ms)
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:19:44 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.2ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (1.9ms)
+Completed 200 OK in 88ms (Views: 87.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-5f98b35b7f5ebeb012682d0a41a6c8b33a1db27fc18cbb591201ea7c3907030f.css?body=1" for 127.0.0.1 at 2019-05-23 17:19:44 -0300
+
+
+Started GET "/assets/profile-4e83c3e7d3d4cfe5c2f28f8b17335ff3d8d9270594fccc4fa87ae724659be7da.jpg" for 127.0.0.1 at 2019-05-23 17:19:44 -0300
+
+
+Started GET "/home/assets/a2.jpg" for 127.0.0.1 at 2019-05-23 17:19:44 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a2.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (25.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (84.0ms)
+
+
+Started GET "/home/assets/a3.jpg" for 127.0.0.1 at 2019-05-23 17:19:45 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a3.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.0ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (26.6ms)
+
+
+Started GET "/home/assets/a4.jpg" for 127.0.0.1 at 2019-05-23 17:19:45 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a4.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.4ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.9ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (28.4ms)
+
+
+Started GET "/home/assets/profile.jpg" for 127.0.0.1 at 2019-05-23 17:19:45 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/profile.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.0ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (35.2ms)
+
+
+Started GET "/home/assets/a5.jpg" for 127.0.0.1 at 2019-05-23 17:19:45 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a5.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.7ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (26.6ms)
+
+
+Started GET "/home/assets/a7.jpg" for 127.0.0.1 at 2019-05-23 17:19:45 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a7.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (26.5ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:19:45 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:19:45 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:21:57 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (4.5ms)
+Completed 200 OK in 87ms (Views: 86.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/a4-cdc1ea54c688f34a97c8b4e4ac4d364f17bec50c10c5d3417eb0e128778076ac.jpg" for 127.0.0.1 at 2019-05-23 17:21:57 -0300
+
+
+Started GET "/home/assets/a4.jpg" for 127.0.0.1 at 2019-05-23 17:21:57 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a4.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.4ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (24.9ms)
+
+
+Started GET "/home/assets/a7.jpg" for 127.0.0.1 at 2019-05-23 17:21:57 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a7.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.9ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (29.4ms)
+
+
+Started GET "/assets/a2-22c5f70142282015b1aa1e8611a895fed56efb2db0045afe0fa124d2a1973d3c.jpg" for 127.0.0.1 at 2019-05-23 17:21:57 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:21:57 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:21:57 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:22:51 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (8.1ms)
+Completed 200 OK in 80ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/a6-b8e9007bb4a531d1918165879a8a86b3d084c2774c2962f429074dec66bb3b75.jpg" for 127.0.0.1 at 2019-05-23 17:22:51 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:22:51 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:22:51 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:25:51 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (7.9ms)
+Completed 200 OK in 75ms (Views: 75.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:25:51 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:25:51 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:26:09 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.8ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (14.2ms)
+Completed 200 OK in 81ms (Views: 80.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:26:09 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:26:09 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:26:23 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.1ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (9.7ms)
+Completed 200 OK in 84ms (Views: 83.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:26:23 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:26:23 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:47:27 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (4.5ms)
+Completed 200 OK in 178ms (Views: 177.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-a4d52b0ef75696ec0affb8f15cd3fe0307e2f3646e89eb7ceb22324ff1f852e0.css?body=1" for 127.0.0.1 at 2019-05-23 17:47:27 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:47:27 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:47:27 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:47:37 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (6.5ms)
+Completed 200 OK in 128ms (Views: 127.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-eba993f1991709b0f310affda9a20496e6502aaa885ed70769054b0668fce488.css?body=1" for 127.0.0.1 at 2019-05-23 17:47:37 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:47:37 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:47:37 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:48:36 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (5.0ms)
+Completed 200 OK in 83ms (Views: 82.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:48:36 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:48:36 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:49:24 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.8ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (5.1ms)
+Completed 200 OK in 73ms (Views: 72.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:49:24 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:49:24 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:50:52 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (5.9ms)
+Completed 200 OK in 94ms (Views: 93.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:50:52 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:50:52 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:51:10 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (6.5ms)
+Completed 200 OK in 95ms (Views: 94.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/assets/a7.jpg" for 127.0.0.1 at 2019-05-23 17:51:11 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a7.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (32.9ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:51:11 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:51:11 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:52:08 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.1ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (1.5ms)
+Completed 500 Internal Server Error in 83ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (No route matches {:action=>"profile", :controller=>"appviews", :format=>"html"}):
+    10:                                           <div class="feed-activity-list">
+    11: 
+    12:                     <div class="feed-element">
+    13:                         <a href="<%= url_for :controller => 'appviews', :action => 'profile' %>" class="pull-left">
+    14: 
+    15:                         <img alt="image" class="img-circle" src="<%= image_url 'profile.jpg' %>">
+    16:                         </a>
+  app/views/layouts/_demandasfeed.html.erb:13:in `_app_views_layouts__demandasfeed_html_erb___3636922522988213990_70196766928280'
+  app/views/layouts/application.html.erb:43:in `_app_views_layouts_application_html_erb__945215023805289191_70196768760460'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (12.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.1ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (30.5ms)
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:52:42 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.0ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (3.3ms)
+Completed 200 OK in 103ms (Views: 102.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/assets/a2.jpg" for 127.0.0.1 at 2019-05-23 17:52:43 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a2.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.4ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (28.3ms)
+
+
+Started GET "/home/assets/a3.jpg" for 127.0.0.1 at 2019-05-23 17:52:43 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a3.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (4.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (54.2ms)
+
+
+Started GET "/home/assets/a5.jpg" for 127.0.0.1 at 2019-05-23 17:52:43 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a5.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.9ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (27.4ms)
+
+
+Started GET "/home/assets/a4.jpg" for 127.0.0.1 at 2019-05-23 17:52:43 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a4.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.7ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.0ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (40.4ms)
+
+
+Started GET "/home/assets/a7.jpg" for 127.0.0.1 at 2019-05-23 17:52:43 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a7.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (31.8ms)
+
+
+Started GET "/home/assets/profile.jpg" for 127.0.0.1 at 2019-05-23 17:52:43 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/profile.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.1ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.0ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (26.3ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:52:43 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:52:43 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:53:11 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.9ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (0.6ms)
+Completed 200 OK in 117ms (Views: 117.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:53:11 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:53:11 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:54:34 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (3.0ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (2.1ms)
+Completed 500 Internal Server Error in 110ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (No route matches {:action=>"profile", :controller=>"appviews", :format=>"html"}):
+    12:                 <div class="feed-activity-list">
+    13: 
+    14:                     <div class="feed-element">
+    15:                         <a href="<%= url_for :controller => 'appviews', :action => 'profile' %>" class="pull-left">
+    16: 
+    17:                         <img alt="image" class="img-circle" src="<%= image_url 'profile.jpg' %>">
+    18:                         </a>
+  app/views/layouts/_demandasfeed.html.erb:15:in `_app_views_layouts__demandasfeed_html_erb___3636922522988213990_70196769537060'
+  app/views/layouts/application.html.erb:43:in `_app_views_layouts_application_html_erb__945215023805289191_70196768760460'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (23.6ms)
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:54:55 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (1.4ms)
+Completed 200 OK in 78ms (Views: 77.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/assets/a2.jpg" for 127.0.0.1 at 2019-05-23 17:54:55 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a2.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (35.3ms)
+
+
+Started GET "/home/assets/a3.jpg" for 127.0.0.1 at 2019-05-23 17:54:55 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a3.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (49.1ms)
+
+
+Started GET "/home/assets/a4.jpg" for 127.0.0.1 at 2019-05-23 17:54:55 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a4.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.4ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.7ms)
+
+
+Started GET "/home/assets/a5.jpg" for 127.0.0.1 at 2019-05-23 17:54:55 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a5.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.1ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.1ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (36.6ms)
+
+
+Started GET "/home/assets/profile.jpg" for 127.0.0.1 at 2019-05-23 17:54:55 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/profile.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.0ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (35.5ms)
+
+
+Started GET "/home/assets/a7.jpg" for 127.0.0.1 at 2019-05-23 17:54:55 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a7.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.9ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.9ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (35.9ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:54:55 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:54:55 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:55:58 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (1.6ms)
+Completed 200 OK in 76ms (Views: 75.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/assets/a2.jpg" for 127.0.0.1 at 2019-05-23 17:55:58 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a2.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.9ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.1ms)
+
+
+Started GET "/home/assets/a3.jpg" for 127.0.0.1 at 2019-05-23 17:55:58 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a3.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.7ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.7ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.7ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (48.5ms)
+
+
+Started GET "/home/assets/a5.jpg" for 127.0.0.1 at 2019-05-23 17:55:58 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a5.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.8ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (33.0ms)
+
+
+Started GET "/home/assets/a4.jpg" for 127.0.0.1 at 2019-05-23 17:55:58 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a4.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (27.5ms)
+
+
+Started GET "/home/assets/profile.jpg" for 127.0.0.1 at 2019-05-23 17:55:58 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/profile.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.4ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (26.5ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:55:58 -0300
+
+
+Started GET "/home/assets/a7.jpg" for 127.0.0.1 at 2019-05-23 17:55:58 -0300
+
+ActionController::RoutingError (No route matches [GET] "/home/assets/a7.jpg"):
+  actionpack (4.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.3) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.3) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.3) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.3) lib/rails/engine.rb:518:in `call'
+  railties (4.2.3) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/dsn1/.rvm/rubies/ruby-2.3.5/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.5ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/dsn1/.rvm/gems/ruby-2.3.5/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (23.3ms)
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:55:58 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:57:41 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (6.8ms)
+Completed 200 OK in 73ms (Views: 72.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/a3-8dd4e1298cba0e9a96d69480dad8c9eed54d66eeb6c1b8b2f0bd15ea54779b11.jpg" for 127.0.0.1 at 2019-05-23 17:57:41 -0300
+
+
+Started GET "/assets/a7-c7806379f3161478bd1e297f60f0822b97d7e39c0a2087c0badbafe79c4abef1.jpg" for 127.0.0.1 at 2019-05-23 17:57:41 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:57:41 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:57:41 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:58:10 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (6.8ms)
+Completed 200 OK in 69ms (Views: 67.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:58:10 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:58:10 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:58:45 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (5.9ms)
+Completed 200 OK in 73ms (Views: 72.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:58:45 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:58:45 -0300
+
+
+Started GET "/home/minor.html" for 127.0.0.1 at 2019-05-23 17:58:54 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (6.8ms)
+Completed 200 OK in 74ms (Views: 73.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-23 17:58:55 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:58:55 -0300

@@ -52,8 +52,9 @@
 }
 
 #page-wrapper {
-      border-left: 1px solid rgb(231, 234, 236);
+      border: 1px solid rgb(231, 234, 236);
       transition: width 0.5s;
+      padding: 0 !important;
 }
 
 body.mini-navbar .nav-header {
@@ -90,13 +91,32 @@ body.mini-navbar .nav-header {
 
 .sideBarPaddingFeed {
     padding-left: 1%;
-    padding-top: 2%;
-}
+    background-color: white;
+    border-left: 1px solid rgb(231, 234, 236);
 
-.feedTitles {
-  padding-left: 5%;
+    vertical-align: top;
+    overflow: hidden;
+    padding-top: 2%;
 }
 
 .hideDemands{
   display: none;
+}
+
+#breadcrumb {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+
+#main {
+      /*background-color: #f3f3f4;*/
+}
+
+/*.inner-right{
+    overflow-y: scroll;
+    padding-right: 1%;
+}*/
+
+.feedTitles {
+    padding-left: 2% !important;
 }

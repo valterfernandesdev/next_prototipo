@@ -18,37 +18,33 @@
 
     <!-- Wrapper-->
     <div id="wrapper">
-    <div class="col-md-10" id="bodycontent">
+
         <!-- Navigation -->
         <%= render 'layouts/navigation' %>
         <%#= render 'layouts/demandasfeed' %>
         <!-- Page wraper -->
-        <div id="page-wrapper" class="gray-bg">
-
+        <div id="page-wrapper" class="">
             <!-- Page wrapper -->
             <%= render 'layouts/topnavbar' %>
 
-            <%= render 'layouts/breadcrumb' %>
+                <div class="col-md-10" id="bodycontent">
+                    <%= render 'layouts/breadcrumb' %>
 
-            <div id="main">
-                    <!-- Main view  -->
-                    <%= yield %>
-            </div>
+                    <div id="main">
+                            <!-- Main view  -->
+                            <%= yield %>
+                    </div>
 
-            <!-- widget for docs -->
-            <%= render 'layouts/docswidget' %>
+                    <!-- widget for docs -->
+                    <%= render 'layouts/docswidget' %>
 
+                </div>
+                <div class="col-md-2 showFeedDemands" id="feedDemandas">
+                    <%= render 'layouts/demandasfeed' %>
+                </div>
             <!-- Footer -->
-            <%= render 'layouts/footer' %>
-
-        </div>
-    </div>
-    <div class="col-md-2 showFeedDemands" id="feedDemandas">
-            <%= render 'layouts/demandasfeed' %>
-    </div>
-        <!-- End page wrapper-->
-    </div>
-    <!-- End wrapper-->
-
+            <%#= render 'layouts/footer' %>
+        </div><!-- End page wrapper-->
+    </div><!-- End wrapper-->
 </body>
 </html>

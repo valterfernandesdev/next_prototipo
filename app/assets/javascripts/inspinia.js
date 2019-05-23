@@ -121,10 +121,17 @@ $(document).ready(function () {
 
         if (navbarheight > wrapperHeight) {
             $('#page-wrapper').css("min-height", navbarheight + "px");
+
         }
 
         if (navbarheight < wrapperHeight) {
             $('#page-wrapper').css("min-height", $(window).height() + "px");
+
+            $('#bodycontent').css("min-height", $(window).height() - 61 + "px");
+            $('#feedDemandas').css("min-height", $(window).height() - 61 + "px");
+
+
+
         }
 
         if ($('body').hasClass('fixed-nav')) {
