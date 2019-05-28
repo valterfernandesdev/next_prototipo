@@ -3,3 +3,7 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+
+## Environment normalization:
+/.bundle
+/vendor/bundle
