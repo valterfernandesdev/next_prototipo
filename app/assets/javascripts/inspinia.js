@@ -129,7 +129,7 @@ $(document).ready(function () {
 
             $('#bodycontent').css("min-height", $(window).height() - 61 + "px");
             $('#feedDemandas').css("min-height", $(window).height() - 61 + "px");
-
+            $('#feedDemandas').css("max-height", $(window).height() - 61 + "px");
 
 
         }

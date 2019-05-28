@@ -30,7 +30,10 @@ $(document).ready(function () {
 
       var feed = document.getElementById('feedDemandas');
       var bodycontent = document.getElementById('bodycontent');
+      var iconfeedchevron = document.getElementById('icon_demand_open_close');
+      var iconfeed = document.getElementById('openDemandsFeed');
 
+      // checa se feed de demanas está aberto
       if ( feed.classList.contains('showFeedDemands') ){
         // esconde feed
         feed.classList.remove('col-md-2');
@@ -41,6 +44,11 @@ $(document).ready(function () {
         // aumenta bodycontent
         bodycontent.classList.remove('col-md-10');
         bodycontent.classList.add('col-md-12');
+
+        //altera icon
+        iconfeedchevron.classList.remove("fa-chevron-right");
+        iconfeedchevron.classList.add("fa-chevron-left");
+        iconfeed.setAttribute("title", "Abrir Feed de Demandas");
       } else {
         // mostra feed
         feed.classList.remove('hideDemands');
@@ -50,8 +58,16 @@ $(document).ready(function () {
         // ajusta bodycontent
         bodycontent.classList.remove('col-md-12');
         bodycontent.classList.add('col-md-10');
+
+        //altera icon
+        iconfeedchevron.classList.remove("fa-chevron-left");
+        iconfeedchevron.classList.add("fa-chevron-right");
+        iconfeed.setAttribute("title", "Fechar Feed de Demandas");
       }
 
       // $("#mySidenav").toggleClass("hideDemands");
     });
+
+
+
 });

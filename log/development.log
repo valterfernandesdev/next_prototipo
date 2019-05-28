@@ -17534,3 +17534,911 @@ Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-0
 
 
 Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-23 17:58:55 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-27 13:30:40 -0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_navigation.html.erb (4.1ms)
+  Rendered layouts/_topnavbar.html.erb (0.6ms)
+  Rendered layouts/_breadcrumb.html.erb (0.8ms)
+  Rendered layouts/_docswidget.html.erb (0.7ms)
+  Rendered layouts/_demandasfeed.html.erb (11.5ms)
+Completed 200 OK in 2189ms (Views: 2173.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/font-awesome.self-2a86d2017f4b74f22943750b3b50b9cb753581bab96cbdaaf2df53f4c04c995b.css?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/animate/animate.self-570992b3ad6a262de1924aa4ecc17a6f9cf45cb8fd0daaf3cfe5a9f2f3e08e2e.css?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/style.self-e3d79c7903979eeb1549200545442d97ef445585105168ed64510e422af1b667.css?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/dropzone/dropzone.self-86d3b50e8ce9584e9045a86d03f12ae5b89b5799cfdb819efc7862b95a906c08.css?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/jquery/jquery-3.1.1.min.self-9347a28e490a684188bc8e7748f6f086a53a87088854ac4de47095f42a085b5b.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/bootstrap/button.self-126ac9bf0e7f2d8568f8da3a00fd5f0fac6eae0946331003370161fbf8d7975e.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/bootstrap/carousel.self-e47323f363ceb3dc0bdbce05e36e709ed428e339833a41140a85cb0af24b8127.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/bootstrap/collapse.self-2eb697f62b587bb786ff940d82dd4be88cdeeaf13ca128e3da3850c5fcaec301.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/bootstrap/dropdown.self-561cca1cbaf67474e01e9536f106bad541594860a6df997004591c1c1957a147.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/bootstrap/modal.self-3e78617ade5663314b7ee0ea10375a5b34d59ffbade44939e3f2a4e4ef2019b3.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/bootstrap/tab.self-5bf7078b682f8b131332eefa46b45fa5eff2eca745fc0d03e2991450888f7c28.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/bootstrap/affix.self-6d6f1a7fc5c8aabf3547fa1b794fab6268f54bc55ad815e55873c71f52513517.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/style.self-e3d79c7903979eeb1549200545442d97ef445585105168ed64510e422af1b667.css?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/bootstrap/scrollspy.self-969f3c5f48cdf1e439c7fa1154c13b948715f5c689f87837c0b64521d3b46ef6.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/bootstrap/tooltip.self-05afb177e08f98997ccfc84fa08a215e4b27d48d5fe4d049080675e9dffd8199.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/bootstrap/popover.self-0aa93860b59fe7393f1dd490f54b3cb994f9d6155adffce034d4e14ae361b041.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/metisMenu/jquery.metisMenu.self-587029531d977fc7fa10623dd670189a298bd606124c23fc2edd051da5b0c914.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/pace/pace.min.self-9bf6d667514a59744d5db2c9392aaf5595dec9c131a425ababa1cb8cddb814f2.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/slimscroll/jquery.slimscroll.min.self-a2008e2992d055fbe5108d326a54c3083f843da1a30240d2b2e1f706716fa03e.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/dropzone/dropzone.self-ba7ef3899c1cac37283f5611116c0ad77f9369ea5bd727ba187fbcbb20d271d9.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/inspinia.self-a562bc3a02a65c9f0c0481fd10f771075fb7693313424e4c0dc902dd179c61f4.js?body=1" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/a5-61775d1e31e343eeeff5250df462d3a0476f5e7a33800ea81c1b2556492ba6b2.jpg" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/profile-4e83c3e7d3d4cfe5c2f28f8b17335ff3d8d9270594fccc4fa87ae724659be7da.jpg" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/a2-22c5f70142282015b1aa1e8611a895fed56efb2db0045afe0fa124d2a1973d3c.jpg" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/a3-8dd4e1298cba0e9a96d69480dad8c9eed54d66eeb6c1b8b2f0bd15ea54779b11.jpg" for 127.0.0.1 at 2019-05-27 13:30:43 -0300
+
+
+Started GET "/assets/a4-cdc1ea54c688f34a97c8b4e4ac4d364f17bec50c10c5d3417eb0e128778076ac.jpg" for 127.0.0.1 at 2019-05-27 13:30:44 -0300
+
+
+Started GET "/assets/a6-b8e9007bb4a531d1918165879a8a86b3d084c2774c2962f429074dec66bb3b75.jpg" for 127.0.0.1 at 2019-05-27 13:30:44 -0300
+
+
+Started GET "/assets/a7-c7806379f3161478bd1e297f60f0822b97d7e39c0a2087c0badbafe79c4abef1.jpg" for 127.0.0.1 at 2019-05-27 13:30:44 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 13:30:44 -0300
+
+
+Started GET "/assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2" for 127.0.0.1 at 2019-05-27 13:30:44 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 13:31:03 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_navigation.html.erb (2.0ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (4.3ms)
+Completed 200 OK in 78ms (Views: 76.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 13:31:04 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:32:32 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (4.3ms)
+Completed 200 OK in 3479ms (Views: 3478.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8772f5b4266f0fe7425f6b7fb8f737f7dd82efe69403d96cf7048c51b1e1d519.css?body=1" for 127.0.0.1 at 2019-05-27 14:32:35 -0300
+
+
+Started GET "/assets/style.self-2e2bd62641ad53d698bd88fb1d9b7d56e2fb6bcc276d00ba5ef9abee6533cf0d.css?body=1" for 127.0.0.1 at 2019-05-27 14:32:35 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:32:35 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:32:35 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:32:49 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (5.0ms)
+Completed 200 OK in 110ms (Views: 109.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-2954afe026c99cced1c08caa2c0f285d4c5f523a22a7a1b554eff3b794b51e53.css?body=1" for 127.0.0.1 at 2019-05-27 14:32:49 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:32:49 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:32:49 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:33:15 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (6.4ms)
+Completed 200 OK in 111ms (Views: 110.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-a8e09bb3e490713c907156607dc3d258fa226bda8eb75855824948f63008b87d.css?body=1" for 127.0.0.1 at 2019-05-27 14:33:15 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:33:15 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:33:15 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:33:43 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (6.0ms)
+Completed 200 OK in 147ms (Views: 146.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-9e495804ee6145abb70eabf395c52eb874bc9f654736358ba553bab23b354b4c.css?body=1" for 127.0.0.1 at 2019-05-27 14:33:43 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:33:43 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:33:44 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:34:27 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (5.9ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (14.7ms)
+Completed 200 OK in 195ms (Views: 193.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-49389e1a48e708aff9202d2142317bf490c479f866533691287d61e712ef6063.css?body=1" for 127.0.0.1 at 2019-05-27 14:34:28 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:34:28 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:34:28 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:34:41 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (5.7ms)
+Completed 200 OK in 130ms (Views: 129.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e522df7e57b5bf5a77df6edb9bf04cb47cd00b11c4c6036de72ec7aa6af8131a.css?body=1" for 127.0.0.1 at 2019-05-27 14:34:41 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:34:42 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:34:42 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:38:06 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (4.3ms)
+Completed 200 OK in 125ms (Views: 124.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-a082e5ab2445b37bdfc0672b0cb0a281a60eeaa43b7e0aa0fce46d6c4f1b42b2.css?body=1" for 127.0.0.1 at 2019-05-27 14:38:07 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:38:07 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:38:07 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:39:50 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (7.4ms)
+Completed 200 OK in 119ms (Views: 118.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-f34fce134af88ec7b89b1746d0ac8e4443db802bfe507cc123fb85158ea30ab9.css?body=1" for 127.0.0.1 at 2019-05-27 14:39:50 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:39:50 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:39:50 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:40:32 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (10.3ms)
+Completed 200 OK in 130ms (Views: 129.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-d8df9d51e2626592c99ce6e67d8e0900f54bac8ed302d5a58185817e48e5e8b7.css?body=1" for 127.0.0.1 at 2019-05-27 14:40:32 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:40:32 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:40:32 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:44:39 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_navigation.html.erb (2.8ms)
+  Rendered layouts/_topnavbar.html.erb (0.7ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (9.8ms)
+Completed 200 OK in 116ms (Views: 114.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-7769bab2936fbd20d3d51718683fa0188e5996a72d7f025c957808e197bd0cb4.js?body=1" for 127.0.0.1 at 2019-05-27 14:44:39 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:44:39 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:44:39 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:45:15 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.3ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (7.4ms)
+Completed 200 OK in 83ms (Views: 82.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:45:15 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:45:15 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:45:40 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.1ms)
+  Rendered layouts/_topnavbar.html.erb (0.4ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (6.7ms)
+Completed 200 OK in 87ms (Views: 86.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:45:40 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:45:40 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:45:56 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_navigation.html.erb (2.7ms)
+  Rendered layouts/_topnavbar.html.erb (0.4ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (25.1ms)
+Completed 200 OK in 127ms (Views: 126.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:45:56 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:45:57 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:46:04 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.7ms)
+  Rendered layouts/_topnavbar.html.erb (0.7ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (5.1ms)
+Completed 200 OK in 95ms (Views: 94.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:46:04 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:46:04 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:46:37 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.3ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (5.2ms)
+Completed 200 OK in 79ms (Views: 78.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:46:37 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:46:37 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:46:50 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.5ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (5.3ms)
+Completed 200 OK in 83ms (Views: 82.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:46:51 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:46:51 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:49:27 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.7ms)
+  Rendered layouts/_topnavbar.html.erb (0.3ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (8.7ms)
+Completed 200 OK in 136ms (Views: 135.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-0751534878986edf80ac1d992ee980d1c999523409e35835d670d1ad6751a3b4.js?body=1" for 127.0.0.1 at 2019-05-27 14:49:27 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:49:27 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:49:27 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:50:05 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (11.0ms)
+Completed 200 OK in 124ms (Views: 123.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e387ebce3fa138defcb9650ebd5af9614fdb2b9e29c1c5c283ac2600ec571f2f.js?body=1" for 127.0.0.1 at 2019-05-27 14:50:05 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:50:05 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:50:05 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 14:50:30 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (10.8ms)
+Completed 200 OK in 109ms (Views: 108.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-1b77da87f903f3d54a8ab02628967b4ee7e92f2f6a6e0b9b625b8b93523578f6.js?body=1" for 127.0.0.1 at 2019-05-27 14:50:30 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 14:50:30 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 14:50:31 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 15:01:59 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (10.1ms)
+Completed 200 OK in 115ms (Views: 114.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-34402e11ac301623f88ea49588e2eafdaba3aee53231cc502ac2f427adc513c5.js?body=1" for 127.0.0.1 at 2019-05-27 15:01:59 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 15:01:59 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 15:02:00 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 15:06:10 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (5.1ms)
+Completed 200 OK in 104ms (Views: 103.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e523c87d698fec220ab4f7a5e6b2ad55a7c9c248bfa61bfdd7e130aefc5fe1b2.js?body=1" for 127.0.0.1 at 2019-05-27 15:06:10 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 15:06:11 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 15:06:11 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 15:08:21 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.1ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (6.2ms)
+Completed 200 OK in 78ms (Views: 77.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 15:08:21 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 15:08:21 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 15:37:03 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (5.2ms)
+Completed 200 OK in 100ms (Views: 99.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 15:37:03 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 15:37:04 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 15:37:30 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.1ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (4.5ms)
+Completed 200 OK in 81ms (Views: 81.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 15:37:30 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 15:37:30 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 15:39:54 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (6.2ms)
+Completed 200 OK in 69ms (Views: 68.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 15:39:54 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 15:39:54 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 15:40:23 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (4.1ms)
+Completed 200 OK in 66ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 15:40:23 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 15:40:23 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-27 15:56:55 -0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (4.5ms)
+Completed 200 OK in 80ms (Views: 79.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 15:56:55 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-27 15:59:05 -0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.9ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (8.4ms)
+Completed 200 OK in 86ms (Views: 85.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 15:59:05 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 15:59:05 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-27 16:21:16 -0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (4.0ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.2ms)
+  Rendered layouts/_demandasfeed.html.erb (8.0ms)
+Completed 200 OK in 116ms (Views: 114.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 16:21:16 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 16:21:17 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-27 16:21:23 -0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.5ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (5.2ms)
+Completed 200 OK in 78ms (Views: 77.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 16:21:23 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 16:21:23 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-27 16:21:35 -0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.2ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (10.2ms)
+Completed 200 OK in 82ms (Views: 82.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 16:21:36 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 16:21:36 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-27 16:23:16 -0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (3.9ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (6.4ms)
+Completed 200 OK in 81ms (Views: 80.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 16:23:16 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 16:23:16 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-27 16:23:22 -0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.8ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (5.5ms)
+Completed 200 OK in 81ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 16:23:22 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 16:23:22 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-27 16:23:23 -0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (4.6ms)
+Completed 200 OK in 73ms (Views: 72.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 16:23:23 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 16:23:25 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.7ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (4.5ms)
+Completed 200 OK in 68ms (Views: 67.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 16:27:32 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (7.2ms)
+Completed 200 OK in 68ms (Views: 67.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 16:27:32 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 16:27:32 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 16:28:09 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (2.1ms)
+  Rendered layouts/_topnavbar.html.erb (0.1ms)
+  Rendered layouts/_breadcrumb.html.erb (0.1ms)
+  Rendered layouts/_docswidget.html.erb (0.1ms)
+  Rendered layouts/_demandasfeed.html.erb (5.8ms)
+Completed 200 OK in 75ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 16:28:09 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 16:28:09 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 16:29:18 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (2.4ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (5.4ms)
+Completed 200 OK in 80ms (Views: 79.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 16:29:18 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 16:29:18 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 16:29:36 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_navigation.html.erb (1.6ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.2ms)
+  Rendered layouts/_demandasfeed.html.erb (9.1ms)
+Completed 200 OK in 81ms (Views: 80.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 16:29:37 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 16:29:37 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 16:31:02 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.8ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.4ms)
+Completed 200 OK in 80ms (Views: 79.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 16:31:03 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 16:31:03 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 16:31:51 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.7ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.4ms)
+Completed 200 OK in 77ms (Views: 76.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 16:31:51 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 16:31:51 -0300
+
+
+Started GET "/home/minor" for 127.0.0.1 at 2019-05-27 17:41:17 -0300
+Processing by HomeController#minor as HTML
+  Rendered home/minor.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 97ms (Views: 96.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inspinia.self-2763eb35d8ab61e9ac6adf6b843719a039b9ecc4345cf65b84a5228840f21e32.js?body=1" for 127.0.0.1 at 2019-05-27 17:41:17 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-27 17:41:17 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-27 17:41:17 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-28 13:28:50 -0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.7ms)
+  Rendered layouts/_navigation.html.erb (5.7ms)
+  Rendered layouts/_topnavbar.html.erb (0.4ms)
+  Rendered layouts/_breadcrumb.html.erb (0.8ms)
+  Rendered layouts/_docswidget.html.erb (1.6ms)
+  Rendered layouts/_demandasfeed.html.erb (0.6ms)
+Completed 200 OK in 2866ms (Views: 2839.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-2e2bd62641ad53d698bd88fb1d9b7d56e2fb6bcc276d00ba5ef9abee6533cf0d.css?body=1" for 127.0.0.1 at 2019-05-28 13:28:53 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-28 13:28:54 -0300
+
+
+Started GET "/assets/logo1next-a2d3ce97ad9228c981c5e29a2c14d56dfbd66fa42c323bfd182eeb34a78ca1ea.png" for 127.0.0.1 at 2019-05-28 13:28:54 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2019-05-28 15:28:06 -0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_navigation.html.erb (1.3ms)
+  Rendered layouts/_topnavbar.html.erb (0.0ms)
+  Rendered layouts/_breadcrumb.html.erb (0.0ms)
+  Rendered layouts/_docswidget.html.erb (0.0ms)
+  Rendered layouts/_demandasfeed.html.erb (0.0ms)
+Completed 200 OK in 85ms (Views: 84.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-2e2bd62641ad53d698bd88fb1d9b7d56e2fb6bcc276d00ba5ef9abee6533cf0d.css?body=1" for 127.0.0.1 at 2019-05-28 15:28:07 -0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 127.0.0.1 at 2019-05-28 15:28:07 -0300

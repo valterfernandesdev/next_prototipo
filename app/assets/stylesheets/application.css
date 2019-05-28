@@ -52,7 +52,8 @@
 }
 
 #page-wrapper {
-      border: 1px solid rgb(231, 234, 236);
+      border-left: 1px solid rgb(231, 234, 236);
+      border-right: 1px solid rgb(231, 234, 236);
       transition: width 0.5s;
       padding: 0 !important;
 }
@@ -120,3 +121,13 @@ body.mini-navbar .nav-header {
 .feedTitles {
     padding-left: 2% !important;
 }
+
+  .nav-header {
+    /*width: 100% !important;*/
+    background-size: cover !important;
+    /*border: 1px solid red !important;*/
+  }
+
+  .theme-config {
+    top: 30px !important;
+  }
