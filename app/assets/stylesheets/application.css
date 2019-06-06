@@ -72,14 +72,6 @@ body.mini-navbar .nav-header {
     background: #faa831 !important;
 }
 
-.theme-config-box {
-    /*margin-right: -300px !important;*/
-}
-
-.skin-settings {
-    /*width: 300px !important;*/
-}
-
 #bodycontent {
   padding-left: 0 !important;
   padding-right: 0 !important;
@@ -91,32 +83,16 @@ body.mini-navbar .nav-header {
 }
 
 .sideBarPaddingFeed {
-    padding-left: 1%;
     background-color: white;
     border-left: 1px solid rgb(231, 234, 236);
-
     vertical-align: top;
     overflow: hidden;
-    padding-top: 2%;
-}
-
-.hideDemands{
-  display: none;
 }
 
 #breadcrumb {
   margin-right: 0 !important;
   margin-left: 0 !important;
 }
-
-#main {
-      /*background-color: #f3f3f4;*/
-}
-
-/*.inner-right{
-    overflow-y: scroll;
-    padding-right: 1%;
-}*/
 
 .feedTitles {
     padding-left: 2% !important;
@@ -129,5 +105,45 @@ body.mini-navbar .nav-header {
   }
 
   .theme-config {
-    top: 30px !important;
+    top: 90px !important;
   }
+
+.sidenav {
+  height: 100%;
+  width: 15vw;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  overflow-x: hidden;
+
+  border-left: 1px solid rgb(231, 234, 236);
+  /**/
+}
+
+.tabsoptsdemands{
+  margin-top: 7.5vh;
+}
+
+.contentdemands{
+  /*overflow-y: scroll;*/
+}
+
+.mainplusbreadcrumb{
+      width: 69.6vw;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+    width: 69.6vw;
+  }
+  .sidenav a {font-size: 18px;}
+}
+
+@media (max-width: 768px){
+  .sidenav {
+    width: 29.6vw;
+  }
+}

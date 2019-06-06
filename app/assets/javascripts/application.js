@@ -28,46 +28,50 @@ $(document).ready(function () {
     // icone de feed de demandas
     $('#openDemandsFeed').click(function (){
 
-      var feed = document.getElementById('feedDemandas');
-      var bodycontent = document.getElementById('bodycontent');
+      var feed = document.getElementById('sidenavdemands');
+      var bodycontent = document.getElementById('mainplusbreadcrumb');
       var iconfeedchevron = document.getElementById('icon_demand_open_close');
       var iconfeed = document.getElementById('openDemandsFeed');
+      var docsendabsolute = document.getElementById('docsendabsolute');
+
 
       // checa se feed de demanas está aberto
       if ( feed.classList.contains('showFeedDemands') ){
         // esconde feed
-        feed.classList.remove('col-md-2');
+        feed.style.display = 'none';
         feed.classList.remove('showFeedDemands');
-
         feed.classList.add('hideDemands');
 
         // aumenta bodycontent
-        bodycontent.classList.remove('col-md-10');
-        bodycontent.classList.add('col-md-12');
+        bodycontent.style.width = '85vw';
 
-        //altera icon
+        //altera icon demands
         iconfeedchevron.classList.remove("fa-chevron-right");
         iconfeedchevron.classList.add("fa-chevron-left");
         iconfeed.setAttribute("title", "Abrir Feed de Demandas");
+
+        //altera icon doc send
+        docsendabsolute.style.right = '0';
       } else {
         // mostra feed
         feed.classList.remove('hideDemands');
         feed.classList.add('showFeedDemands');
-        feed.classList.add('col-md-2');
+        feed.style.display = 'initial';
 
         // ajusta bodycontent
-        bodycontent.classList.remove('col-md-12');
-        bodycontent.classList.add('col-md-10');
+        bodycontent.style.width = '69.6vw';
 
         //altera icon
         iconfeedchevron.classList.remove("fa-chevron-left");
         iconfeedchevron.classList.add("fa-chevron-right");
         iconfeed.setAttribute("title", "Fechar Feed de Demandas");
+
+        //altera icon doc send
+        docsendabsolute.style.right = '15vw';
       }
 
       // $("#mySidenav").toggleClass("hideDemands");
     });
-
 
 
 });
