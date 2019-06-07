@@ -61,5 +61,25 @@ $(document).ready(function () {
       }
     });
 
+    // se left navbar click, ajusta bodycontent
+    $('.navbar-minimalize').click(function (){
+      var bodycontent = document.getElementById('mainplusbreadcrumb');
+      var feed = document.getElementById('right-sidebar');
 
+      //ajusta bodycontent largura
+      // ao checar o click, a classe já existe entre o click e a checagem
+      if ( !document.body.classList.contains('mini-navbar') ){
+          bodycontent.style.width = '77.3vw';
+          if ( feed.classList.contains('showFeedDemands') ){
+            bodycontent.style.width = '67.6vw';
+          }else{
+            bodycontent.style.width = '84.5vw';
+          }
+      }  else {
+          bodycontent.style.width = '77.3vw';
+          if ( feed.classList.contains('hideDemands') ){
+            bodycontent.style.width = '94.3vw';
+          }
+      }
+    });
 });
