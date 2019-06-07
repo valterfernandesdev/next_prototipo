@@ -21,30 +21,26 @@
 
         <!-- Navigation -->
         <%= render 'layouts/navigation' %>
-        <%#= render 'layouts/demandasfeed' %>
+
         <!-- Page wraper -->
         <div id="page-wrapper" class="">
             <!-- Page wrapper -->
             <%= render 'layouts/topnavbar' %>
+                    <div class="mainplusbreadcrumb" id="mainplusbreadcrumb">
+                        <%= render 'layouts/breadcrumb' %>
 
-                <div class="col-md-10" id="bodycontent">
-                    <%= render 'layouts/breadcrumb' %>
-
-                    <div id="main">
-                            <!-- Main view  -->
-                            <%= yield %>
+                        <div id="main" class="main">
+                                <!-- Main view  -->
+                                <%= yield %>
+                        </div>
+                        <!-- widget for docs -->
+                        <%= render 'layouts/docswidget' %>
                     </div>
-
-                    <!-- widget for docs -->
-                    <%= render 'layouts/docswidget' %>
-
-                </div>
-                <div class="col-md-2 showFeedDemands" id="feedDemandas">
-                    <%= render 'layouts/demandasfeed' %>
-                </div>
             <!-- Footer -->
             <%#= render 'layouts/footer' %>
         </div><!-- End page wrapper-->
+            <%= render 'layouts/demandasfeed' %>
+
     </div><!-- End wrapper-->
 </body>
 </html>
