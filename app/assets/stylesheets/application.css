@@ -117,13 +117,21 @@ body.mini-navbar .nav-header {
   bottom: 0;
   right: 0;
   overflow-x: hidden;
-
+  margin-top: 14.5vh;
   border-left: 1px solid rgb(231, 234, 236);
   /**/
 }
 
 .tabsoptsdemands{
+  width: 15vw;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  overflow-x: hidden;
   margin-top: 7.5vh;
+  border-left: 1px solid rgb(231, 234, 236);
 }
 
 .contentdemands{
@@ -131,19 +139,23 @@ body.mini-navbar .nav-header {
 }
 
 .mainplusbreadcrumb{
-      width: 69.6vw;
+      width: 67.6vw;
+}
+
+.md-skin .wrapper-content {
+  padding: 0px 30px 30px !important;
 }
 
 @media screen and (max-height: 450px) {
   .sidenav {
     padding-top: 15px;
-    width: 69.6vw;
+    /*width: 69.6vw;*/
   }
   .sidenav a {font-size: 18px;}
 }
 
 @media (max-width: 768px){
   .sidenav {
-    width: 29.6vw;
+    width: 67.6vw;
   }
 }
