@@ -97,11 +97,8 @@ body.mini-navbar .nav-header {
 .feedTitles {
     padding-left: 2% !important;
 }
-
   .nav-header {
-    /*width: 100% !important;*/
     background-size: cover !important;
-    /*border: 1px solid red !important;*/
   }
 
   .theme-config {
@@ -120,22 +117,6 @@ body.mini-navbar .nav-header {
   margin-top: 14.5vh;
   border-left: 1px solid rgb(231, 234, 236);
   /**/
-}
-
-.tabsoptsdemands{
-  width: 15vw;
-  position: absolute;
-  z-index: 1;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  overflow-x: hidden;
-  margin-top: 7.5vh;
-  border-left: 1px solid rgb(231, 234, 236);
-}
-
-.contentdemands{
-  /*overflow-y: scroll;*/
 }
 
 .mainplusbreadcrumb{

@@ -263,10 +263,6 @@ function animationHover(element, animation) {
 
 function SmoothlyMenu() {
     if (!$('body').hasClass('mini-navbar') || $('body').hasClass('body-small')) {
-        //ajusta bodycontent largura
-        var bodycontent = document.getElementById('mainplusbreadcrumb');
-        // if
-        // bodycontent.style.width = ''
         // Hide menu in order to smoothly turn on when maximize menu
         $('#side-menu').hide();
         // For smoothly turn on menu
