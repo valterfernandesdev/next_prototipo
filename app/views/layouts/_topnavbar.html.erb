@@ -14,12 +14,19 @@
                     <i class="fa fa-chevron-right" id="icon_demand_open_close"> <i class="fa fa-tasks" title="Fechar Feed de Demandas" id="openDemandsFeed"></i></i>
                 </a>
             </li> -->
+            <li id="list_item_doc_mobile" style="display: none;" data-toggle="modal" data-target="#docs_mobile_modal">
+                <a class="" id="docs_send_low_res">
+                    <i class="fa fa-cloud-upload" title="Enviar Documentos" id="docs_send_low_res"></i>
+                </a>
+            </li>
             <li>
-                    <a class="right-sidebar-toggle" id="openDemandsFeed">
-                        <i class="fa fa-tasks" title="Feed de Demandas" id="openDemandsFeed"></i>
-                    </a>
-                </li>
+                <a class="right-sidebar-toggle" id="openDemandsFeed">
+                    <i class="fa fa-tasks" title="Feed de Demandas" id="openDemandsFeed"></i>
+                </a>
+            </li>
 
         </ul>
     </nav>
 </div>
+
+<%= render 'layouts/docsmobilemodal' %>
