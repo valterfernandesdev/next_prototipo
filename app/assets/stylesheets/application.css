@@ -127,6 +127,10 @@ body.mini-navbar .nav-header {
   padding: 0px 30px 30px !important;
 }
 
+#add_file_infos{
+  float: right;
+}
+
 @media screen and (max-height: 450px) {
   .sidenav {
     padding-top: 15px;
