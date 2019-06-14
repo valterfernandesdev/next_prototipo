@@ -131,6 +131,10 @@ body {
     overflow-y: scroll !important;
 }
 
+.canvasjs-chart-credit{
+  display: none;
+}
+
 @media screen and (max-height: 450px) {
   .sidenav {
     padding-top: 15px;
