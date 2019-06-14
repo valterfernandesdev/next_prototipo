@@ -124,7 +124,11 @@ body.mini-navbar .nav-header {
 }
 
 .md-skin .wrapper-content {
-  padding: 0px 30px 30px !important;
+  padding: 15px 30px 30px !important;
+}
+
+body {
+    overflow-y: scroll !important;
 }
 
 @media screen and (max-height: 450px) {
