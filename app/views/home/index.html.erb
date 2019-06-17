@@ -1,6 +1,6 @@
 <div class="wrapper wrapper-content  animated fadeInRight">
     <div class="row">
-        <div class="col-lg-12">
+        <div class="col-lg-6">
             <div class="ibox float-e-margins">
                 <div class="ibox-title">
                     <h5>Graficos </h5>
@@ -243,8 +243,7 @@
     window.onload = function() {
 
     var chart = new CanvasJS.Chart("chartContainer", {
-        theme: "light2", // "light1", "light2", "dark1", "dark2"
-        exportEnabled: true,
+        theme: "light1", // "light1", "light2", "dark1", "dark2"
         animationEnabled: true,
         title: {
             text: "Andamento de Processos"
@@ -255,14 +254,32 @@
             toolTipContent: "<b>{label}</b>: {y}%",
             indexLabelFontSize: 12,
             dataPoints: [
-                { y: 51.08, label: "No prazo", color: "green" },
-                { y: 27.34, label: "Em atraso", color: "red" },
-                { y: 10.62, label: "Quase em atraso", color: "yellow" }
+                { y: 51.08, label: "No prazo", color: "#28a745" },
+                { y: 27.34, label: "Em atraso", color: "#ed5565" },
+                { y: 10.62, label: "Quase em atraso", color: "#ffc107" }
             ]
         }]
     });
-    chart.render();
+
+        chart.render();
 
     }
+
+
+    $(function() {
+
+        $("#todo, #inprogress, #completed").sortable({
+            connectWith: ".connectList",
+            update: function( event, ui ) {
+
+                var todo = $( "#todo" ).sortable( "toArray" );
+                var inprogress = $( "#inprogress" ).sortable( "toArray" );
+                var completed = $( "#completed" ).sortable( "toArray" );
+                $('.output').html("ToDo: " + window.JSON.stringify(todo) + "<br/>" + "In Progress: " + window.JSON.stringify(inprogress) + "<br/>" + "Completed: " + window.JSON.stringify(completed));
+            }
+        }).disableSelection();
+
+
+    });
 
 </script>
