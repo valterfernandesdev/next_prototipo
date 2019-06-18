@@ -14,6 +14,11 @@
  *= require style
   //= require dropzone/basic.css
   //= require dropzone/dropzone.css
+  //= require toastr/toastr.min.css
+
+  //= require morris/morris-0.4.3.min.css
+  //= require chartist/chartist.min.css
+  //= require c3/c3.min.css
  */
 
 .nav-header {
@@ -129,6 +134,14 @@ body.mini-navbar .nav-header {
 
 body {
     overflow-y: scroll !important;
+}
+
+.canvasjs-chart-credit{
+  display: none;
+}
+
+.ibox-title-dashboard{
+  padding: 15px 15px 0px !important;
 }
 
 @media screen and (max-height: 450px) {
