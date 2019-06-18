@@ -1,82 +1,86 @@
 <div class="wrapper wrapper-content  animated fadeInRight">
-    <div class="row ibox float-e-margins">
+    <div class="ibox float-e-margins">
+
         <div class="ibox-title ibox-title-dashboard">
-                <h1>
-                    <a class="collapse-link">
-                        <i class="fa fa-chevron-up"> </i> Tarefas
-                    </a>
-                </h1>
+                   <h1>
+                        <a class="collapse-link">
+                            <i class="fa fa-chevron-up"> </i> Metricas
+                        </a>
+                    </h1>
+
         </div>
         <div class="ibox-content">
-            <div class="col-lg-4">
-                <div class="ibox float-e-margins">
-                    <div class="ibox-title">
-                        <h5>Andamento</h5>
-                        <div class="ibox-tools">
-                            <a class="collapse-link">
-                                <i class="fa fa-chevron-up"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="ibox-content">
-                        <div class="flot-chart">
-                            <div class="flot-chart-pie-content" id="flot-pie-chart"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4">
-                <div class="ibox float-e-margins">
-                    <div class="ibox-title">
-                        <h5>Total atrasadas</h5>
-                        <div class="ibox-tools">
-                            <a class="collapse-link">
-                                <i class="fa fa-chevron-up"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="ibox-content">
-                        <div>
-                            <div id="gauge"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4">
-                <div class="ibox float-e-margins">
-                    <div class="ibox-title">
-                        <h5>Total Em aberto</h5>
-                        <div class="ibox-tools">
-                            <a class="collapse-link">
-                                <i class="fa fa-chevron-up"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="ibox-content">
-                        <h5>Número de tarefas:</h5>
-                        <h1 class="no-margins">10</h1>
-                        <div class="stat-percent font-bold text-navy">25%</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="row ibox float-e-margins">
-        <div class="ibox-title ibox-title-dashboard">
-                <h1>
-                    <a class="collapse-link">
-                        <i class="fa fa-chevron-up"> </i> Atendimentos
-                    </a>
-                </h1>
-        </div>
-        <div class="ibox-content">
+            <div class="row">
                 <div class="col-lg-4">
+                    <div class="ibox">
+                        <div class="ibox-title">
+                            <!-- <span class="label label-danger pull-right"></span> -->
+                            <h5>Tarefas Atrasadas</h5>
+                            <div class="ibox-tools">
+                                <a class="collapse-link">
+                                    <i class="fa fa-chevron-up"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="ibox-content">
+                            <h1 class="no-margins">12</h1>
+                            <div class="stat-percent font-bold text-danger">20% <i class="fa fa-level-down"></i></div>
+                            <small>dia/mês/ano</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="ibox">
+                        <div class="ibox-title">
+                            <!-- <span class="label label-danger pull-right"></span> -->
+                            <h5>Tarefas em Aberto</h5>
+                            <div class="ibox-tools">
+                                <a class="collapse-link">
+                                    <i class="fa fa-chevron-up"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="ibox-content">
+                            <h1 class="no-margins">38%</h1>
+                            <div class="stat-percent font-bold text-danger"></div>
+                            <small>dia/mês/ano</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="ibox">
+                        <div class="ibox-title">
+                            <!-- <span class="label label-danger pull-right"></span> -->
+                            <h5>Atendimentos Impactados</h5>
+                            <div class="ibox-tools">
+                                <a class="collapse-link">
+                                    <i class="fa fa-chevron-up"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="ibox-content">
+                            <h1 class="no-margins">4</h1>
+
+                            <small>dia/mês/ano</small>
+                            <div class="row">
+                                <div class="col-md-10">
+                                    <div class="progress progress-mini">
+                                           <div style="width: 30%;" class="progress-bar progress-bar-impactados" style=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-md-2"><div class="stat-percent font-bold text-danger">30%</div></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-lg-6">
                     <div class="ibox float-e-margins">
                         <div class="ibox-title">
-                            <h5>Andamento</h5>
+                            <h5>Andamento de Tarefas</h5>
                             <div class="ibox-tools">
                                 <a class="collapse-link">
                                     <i class="fa fa-chevron-up"></i>
@@ -85,16 +89,16 @@
                         </div>
                         <div class="ibox-content">
                             <div class="flot-chart">
-                                <div class="flot-chart-pie-content" id="flot-pie-chart-atendimento"></div>
+                                <div class="flot-chart-pie-content" id="flot-pie-chart"></div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                     <div class="ibox float-e-margins">
                         <div class="ibox-title">
-                            <h5>Impactados negativamente</h5>
+                            <h5>Andamento de Atendimentos</h5>
                             <div class="ibox-tools">
                                 <a class="collapse-link">
                                     <i class="fa fa-chevron-up"></i>
@@ -102,14 +106,11 @@
                             </div>
                         </div>
                         <div class="ibox-content">
-                            <h5>Porcentagem:</h5>
-                            <h2>65%</h2>
-                            <div class="progress progress-mini">
-                                <div style="width: 65%;" class="progress-bar" style="background-color: #ED5565;"></div>
-                            </div>
+                            <div id="pie"></div>
                         </div>
                     </div>
                 </div>
+            </div>
         </div>
     </div>
 
@@ -410,58 +411,28 @@
             }
         });
 
-        c3.generate({
-            bindto: '#gauge',
-            data:{
-                columns: [
-                    ['data', 20]
-                ],
 
-                type: 'gauge'
-            },
-            color:{
-                pattern: ['#ED5565', '#BABABA']
-
-            }
-        });
-
-
-        //GRAFICOS ATENDIMENTO
-            var data = [{
-                label: "Em Atendimento",
-                data: 21,
-                color: "#1c84c6",
-            }, {
-                label: "Pendente",
-                data: 3,
-                color: "#ffc107",
-            }, {
-                label: "Cancelada",
-                data: 15,
-                color: "#ED5565",
-            }, {
-                label: "Resolvido",
-                data: 52,
-                color: "#1ab394",
-            }];
-
-            var plotObj = $.plot($("#flot-pie-chart-atendimento"), data, {
-                series: {
-                    pie: {
-                        show: true
-                    }
+        //GRAFICO DE ATENDIMENTO
+            c3.generate({
+                bindto: '#pie',
+                size: {
+                    height: 200,
+                    width: 420
                 },
-                grid: {
-                    hoverable: true
-                },
-                tooltip: true,
-                tooltipOpts: {
-                    content: "%p.0%, %s", // show percentages, rounding to 2 decimal places
-                    shifts: {
-                        x: 20,
-                        y: 0
+                data:{
+                    columns: [
+                        ['Em Atendimento', 30],
+                        ['Pendente', 120],
+                        ['Cancelada', 120],
+                        ['Resolvido', 120]
+                    ],
+                    colors:{
+                        data1: '#1c84c6',
+                        data2: '#ffc107',
+                        data2: '#ED5565',
+                        data2: '#1ab394'
                     },
-                    defaultTheme: false
+                    type : 'pie'
                 }
             });
 
