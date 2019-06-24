@@ -82,6 +82,9 @@ body.mini-navbar .nav-header {
   padding-right: 0 !important;
 }
 
+.menu_icon_demands {
+  background-color: white;
+}
 .showFeedDemands{
   padding-left: 0 !important;
   padding-right: 0 !important;
@@ -154,6 +157,10 @@ body {
 
 .progress-bar-impactados{
   background-color: red !important;
+}
+
+.ibox_upper{
+      padding: 15px 20px 38px 20px !important;
 }
 
 @media screen and (max-height: 450px) {

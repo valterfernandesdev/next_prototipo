@@ -1,0 +1,188 @@
+
+<div class="row ibox float-e-margins">
+
+            <div class="ibox-title ibox-title-dashboard">
+                       <h1>
+                            <a class="collapse-link">
+                                <i class="fa fa-chevron-up"> </i> Metricas
+                            </a>
+                        </h1>
+            </div>
+            <div class="ibox-content">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="ibox">
+                        <div class="ibox-title">
+                            <!-- <span class="label label-danger pull-right"></span> -->
+                            <h5>Tarefas Atrasadas</h5>
+                            <div class="ibox-tools">
+                                <a class="collapse-link">
+                                    <i class="fa fa-chevron-up"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="ibox-content ibox_upper">
+                            <h1 class="no-margins">12</h1>
+                            <div class="stat-percent font-bold text-danger">20% <i class="fa fa-level-down"></i></div>
+                            <small>dia/mês/ano</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="ibox ">
+                        <div class="ibox-title">
+                            <!-- <span class="label label-danger pull-right"></span> -->
+                            <h5>Tarefas em Aberto</h5>
+                            <div class="ibox-tools">
+                                <a class="collapse-link">
+                                    <i class="fa fa-chevron-up"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="ibox-content ibox_upper">
+                            <h1 class="no-margins">38%</h1>
+                            <div class="stat-percent font-bold text-danger"></div>
+                            <small>dia/mês/ano</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="ibox ">
+                        <div class="ibox-title">
+                            <!-- <span class="label label-danger pull-right"></span> -->
+                            <h5>Atendimentos Impactados</h5>
+                            <div class="ibox-tools">
+                                <a class="collapse-link">
+                                    <i class="fa fa-chevron-up"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="ibox-content">
+                            <h1 class="no-margins">4</h1>
+
+                            <small>dia/mês/ano</small>
+                            <div class="row">
+                                <div class="col-md-10">
+                                    <div class="progress progress-mini">
+                                           <div style="width: 30%;" class="progress-bar progress-bar-impactados" style=""></div>
+                                    </div>
+                                </div>
+                                <div class="col-md-2"><div class="stat-percent font-bold text-danger">30%</div></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-lg-6">
+                    <div class="ibox float-e-margins">
+                        <div class="ibox-title">
+                            <h5>Andamento de Tarefas</h5>
+                            <div class="ibox-tools">
+                                <a class="collapse-link">
+                                    <i class="fa fa-chevron-up"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="ibox-content">
+                                <div class="" id="pieTarefas"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="ibox float-e-margins">
+                        <div class="ibox-title">
+                            <h5>Andamento de Atendimentos</h5>
+                            <div class="ibox-tools">
+                                <a class="collapse-link">
+                                    <i class="fa fa-chevron-up"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="ibox-content">
+                            <div id="pieAtendimentos"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    $(function() {
+
+            var c3_height = 200;
+            var c3_width = 420;
+
+            if (screen.width <= 1024){ c3_width = 200;}
+
+            //GRAFICO DE ATENDIMENTO
+            c3.generate({
+                bindto: '#pieAtendimentos',
+                size: {
+                        height: c3_height,
+                        width: c3_width
+                },
+                data:{
+                    columns: [
+                        ['Em Atendimento', 30],
+                        ['Pendente', 120],
+                        ['Cancelada', 25],
+                        ['Resolvido', 22]
+                    ],
+                    colors:{
+                        data1: '#1c84c6',
+                        data2: '#ffc107',
+                        data2: '#ED5565',
+                        data2: '#1ab394'
+                    },
+                    type : 'pie'
+                },
+                tooltip: {
+                    format: {
+                        value: function (value, ratio, id) {
+                            var format = id === 'data1' ? d3.format(',') : d3.format('');
+                            return format(value);
+                        }
+                    }
+                }
+            });
+
+            //GRAFICO DE TAREFAS
+             c3.generate({
+                bindto: '#pieTarefas',
+                size: {
+                        height: c3_height,
+                        width: c3_width
+                },
+                data:{
+                    columns: [
+                        ['Em Atendimento', 50],
+                        ['Pendente', 25],
+                        ['Cancelada', 10],
+                        ['Resolvido', 15]
+                    ],
+                    colors:{
+                        data1: '#1c84c6',
+                        data2: '#ffc107',
+                        data2: '#ED5565',
+                        data2: '#1ab394'
+                    },
+                    type : 'pie'
+                },
+                tooltip: {
+                    format: {
+                        value: function (value, ratio, id) {
+                            var format = id === 'data1' ? d3.format(',') : d3.format('');
+                            return format(value);
+                        }
+                    }
+                }
+            });
+    });
+
+</script>
