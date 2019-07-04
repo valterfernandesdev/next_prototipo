@@ -1,0 +1,65 @@
+<div class="modal inmodal" id="task_more_info_<%= locals[:task] %>" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content animated bounceInRight">
+            <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                  <h4 class="modal-title">Fazer Café <%= locals[:task] %></h4>
+            </div>
+
+            <div class="modal-body">
+
+                  <div class="form-group">
+                    <label for="descricao">Descrição:</label>
+                    <textarea class="form-control" rows="5" id="descricao" style="resize: none;" readonly="true">Descrição teste de uma atividade café</textarea>
+                  </div>
+
+                  <div class="form-group">
+                    <div class="row">
+                      <div class="col-md-4">
+                        <label>Duração de Demanda:</label>
+                        <p> <i class="fa fa-clock-o"> </i> 5h32min</p>
+                      </div>
+                      <div class="col-md-4">
+                        <label>Previsão de Termino:</label>
+                        <p><time datetime="2019-02-05 15:30">05/10/2019 às 15:30</time></p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="form-group">
+                    <div class="row">
+                        <div class="col-md-9">
+                            <label for="responsavel">Responsáveis:</label><br>
+                            <img alt="image" class="img-circle responsavel_img_new_task" src="<%= image_path('a4.jpg') %>" title="John"> John Doe
+                            <br>
+                        </div>
+                        <div class="col-md-3" style="margin-top: 4%;">
+                              <a href="#" class="btn btn-info">
+                                   + Assumir
+                              </a>
+                        </div>
+                    </div>
+                  </div>
+
+                  <div class="form-group">
+                        <div class="row">
+                                    <div class="col-md-10">
+                                            <label>Progresso: </label>
+                                            <div class="progress progress-striped active">
+                                                <div style="width: 35%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="75" role="progressbar" class="progress-bar progress-bar<%= locals[:status_progresso] %>"></div>
+                                            </div>
+                                    </div>
+                                    <div class="col-md-2" style="margin-top: 4%;">
+                                          <label> 35% </label>
+                                    </div>
+                        </div>
+                  </div>
+            </div>
+
+            <div class="modal-footer">
+                  <button type="button" class="btn btn-white" data-dismiss="modal">Fechar</button>
+                  <a href="#" class="btn btn-success">Ir para Demanda</a>
+            </div>
+        </div>
+    </div>
+</div>

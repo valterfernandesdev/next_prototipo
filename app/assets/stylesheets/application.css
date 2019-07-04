@@ -163,6 +163,19 @@ body {
       padding: 15px 20px 38px 20px !important;
 }
 
+
+.responsavel_img_new_task{
+    width: 38px;
+    height: 38px;
+}
+
+
+
+
+
+
+
+/*PARA CELULAR*/
 @media screen and (max-height: 450px) {
   .sidenav {
     padding-top: 15px;
